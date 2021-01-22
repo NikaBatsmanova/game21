@@ -77,6 +77,7 @@ def first_delivery(desk0):
     return sum_d, sum_g, deal_g1, deal_d1, list(desk0)
 
 
+
 def count(sum_ga, sum_de):
     print('Подсчёт очков...')
     if sum_ga > sum_de:
